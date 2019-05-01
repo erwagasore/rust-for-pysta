@@ -1,0 +1,7 @@
+# python
+__pycache__
+/.python-version
+
+# rust
+/target
+**/*.rs.bk
