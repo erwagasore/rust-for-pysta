@@ -5,3 +5,4 @@ __pycache__
 # rust
 /target
 **/*.rs.bk
+*/*.egg-info
