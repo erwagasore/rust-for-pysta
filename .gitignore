@@ -1,8 +1,10 @@
 # python
 __pycache__
 /.python-version
+*/*.egg-info
 
 # rust
-/target
+*.lock
 **/*.rs.bk
-*/*.egg-info
+*/target
+
